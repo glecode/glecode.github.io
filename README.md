@@ -3,8 +3,8 @@
   
 
 <center><h2> Published Papers</h2></center>
-<p><center>Improving the Estimation and Predictions of Small Time Series Models. Journal of Time Series Econometrics, 2022. <br>
-  <a href="doi:10.1515/jtse-2021-0051">[Paper]</a></center></p>  
+<p><center><a href="doi:10.1515/jtse-2021-0051">Improving the Estimation and Predictions of Small Time Series Models.</a> <br>
+  Journal of Time Series Econometrics, 2022. </center></p>  
 
 <p><a href="doi:10.1007/s10797-022-09725-1">Formal sector enforcement and welfare. International Tax and Public Finance, 2022 (with Mitra, S.</a></p>  
 
