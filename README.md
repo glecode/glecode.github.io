@@ -1,6 +1,3 @@
-<center><h2> Bio</h2></center>
-
-  
 
 <center><h2> Published Papers</h2></center>
 <p><center><a href="doi:10.1515/jtse-2021-0051">Improving the Estimation and Predictions of Small Time Series Models</a> <br>
