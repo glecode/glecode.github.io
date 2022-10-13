@@ -1,5 +1,5 @@
 
-<center><h2> Published Papers</h2></center>
+<center><h2> Publications</h2></center>
 <p><a href="doi:10.1515/jtse-2021-0051">Improving the Estimation and Predictions of Small Time Series Models</a> <br>
   Journal of Time Series Econometrics, 2022. </p>  
 
@@ -20,5 +20,6 @@ Econometrics and Statistics, 2018. </p>
 Journal of Time Series Econometrics, 2012.</p>  
 
 <center><h2> Working Papers</h2></center>
-
- 
+<p>The Bias of the Modified Limited Information Maximum Likelihood Estimator (MLIML) in Static Simultaneous Equation Models (with Phillips, G.D.A.)</p>  
+<p>Intangible Capital and (with Mitra, S.)</p>  
+<p>The Robustness of the 2SLS Mean Squared Error to Non-Normal disturbances (with Phillips, G.D.A.)</p> 
