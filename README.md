@@ -17,7 +17,7 @@ Econometrics and Statistics, 2018. </p>
  Computational Statistics and Data Analysis, 2016. </p> 
 
 <p><a href="doi:10.1515/1941-1928.1122">Bootstrap, Jackknife and COLS: Bias and Mean Squared Error in Estimation of Autoregressive Models (with Phillips, G.D.A.)</a> <br>
-Journal of Time Series Econometrics, 2012.</p>  
+Journal of Time Series Econometrics, 2012.</p>  <br>
 
 <center><h2> Working Papers</h2></center>
 <p>The Bias of the Modified Limited Information Maximum Likelihood Estimator (MLIML) in Static Simultaneous Equation Models (with Phillips, G.D.A.)</p>  
