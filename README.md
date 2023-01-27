@@ -21,5 +21,5 @@ Journal of Time Series Econometrics, 2012.</p>  <br>
 
 <center><h2> Working Papers</h2></center>
 <p>The Bias of the Modified Limited Information Maximum Likelihood Estimator (MLIML) in Static Simultaneous Equation Models (with Phillips, G.D.A.)</p>  
-<p>Intangible Capital and (with Mitra, S.)</p>  
+<p>Intangible Capital Shocks (with Mitra, S.)</p>  
 <p>The Robustness of the 2SLS Mean Squared Error to Non-Normal disturbances (with Phillips, G.D.A.)</p> 
